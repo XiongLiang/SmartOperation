@@ -1,0 +1,52 @@
+.wrapper {
+    min-height: calc(100vh - 144px);
+    position: relative
+}
+
+body.sticky .masthead-header {
+    box-shadow: none
+}
+
+header.masthead {
+    min-height: 50px;
+    margin-bottom: 10px;
+    width: 100%;
+    z-index: 999;
+    position: fixed;
+    top: 0
+}
+
+header.masthead .masthead-header {
+    background-color: #EEF4F4;
+    min-height: 70px;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 0 6px grey;
+    transition: box-shadow .3s
+}
+
+header.masthead .masthead-header a.masthead-brand>img {
+    position: relative;
+    top: 5px;
+    height: 30px
+}
+
+.geodrop-toggle {
+    /* background: url(images/header-location-icon.png) 0 50% no-repeat; */
+    color: #5A6464;
+    padding-left: 27px;
+    padding-top: 5px;
+    margin-top: 20px;
+    margin-right: 30px;
+    line-height: 20px;
+    position: relative;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 16px
+}
+
+footer {
+    background: #F4F4F4;
+    padding: 2px 0;
+    margin-top: 20px
+}
