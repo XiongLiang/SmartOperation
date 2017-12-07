@@ -7,6 +7,6 @@
 <title>Smart Operation Demo App</title>
 </head>
 <body>
-	Smart Operation Demo App!!!!!~~~~~~~~~~~~
+	Smart Operation Demo App!!!!!~~~~~~~~~~~~ 1.0
 </body>
 </html>
