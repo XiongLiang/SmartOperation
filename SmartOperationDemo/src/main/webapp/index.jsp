@@ -56,6 +56,7 @@ background-color: #f5f5f5; -webkit-border-radius: 4px;
 				Copyright ©2017 <a href="#" class="highlight">The Smart Operation Team!!!</a>. All
 				rights reserved.
 			</p>
+			<a href="feature1.jsp">Feature1</a>
 		</div>
 	</footer>
 
