@@ -41,7 +41,7 @@ background-color: #f5f5f5; -webkit-border-radius: 4px;
 				<li class=""><a href="#" title="Smart Operation Project">Smart
 						Operation Project</a></li>
 				<li class=""><a href="#" title="Smart Operation Demo">Smart
-						Operation Demo</a></li>
+						Operation Demo project</a></li>
 			</ul>
 		</div>
 
